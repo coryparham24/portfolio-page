@@ -1,0 +1,1 @@
+This project from FreeCodeCamp's [curriculum](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage) challenged me to build a personal portfolio page using HTML & CSS. Enjoy!
